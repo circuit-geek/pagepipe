@@ -10,7 +10,7 @@ PagePipe is **not** a scraper with custom schemas. It is a Unix-style pipe that 
 
 ```bash
 # Clone the repository
-git clone https://github.com/gaurav-prasanna/pagepipe.git
+git clone https://github.com/circuit-geek/pagepipe.git
 cd pagepipe
 
 # Build the binary
@@ -253,7 +253,3 @@ Each discovered URL is processed independently through the same pipeline.
 - Zero chunk overlap for embeddings
 
 ---
-
-## License
-
-MIT
