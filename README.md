@@ -14,7 +14,8 @@ git clone https://github.com/circuit-geek/pagepipe.git
 cd pagepipe
 
 # Build the binary
-go build -o pagepipe .
+go build -o pagepipe . (Linux)
+go build -o pagepipe.exe (Windows)
 ```
 
 ---
