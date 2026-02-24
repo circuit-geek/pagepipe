@@ -1,6 +1,6 @@
 # PagePipe
 
-A Go-based CLI tool that converts website URLs into structured outputs — Markdown, PDF, JSON, and Embeddings — via a deterministic ingestion pipeline.
+A Go-based CLI tool that converts website URLs into structured outputs Markdown, PDF, JSON, and Embeddings.
 
 PagePipe is **not** a scraper with custom schemas. It is a Unix-style pipe that treats every webpage the same way: fetch it, extract the main content, normalize it to Markdown, and convert it to your desired output format.
 
